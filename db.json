@@ -129,7 +129,7 @@
 			"name": "Bàn ăn 1",
 			"typeDevice": "Induction",
 			"status": {
-				"power": false,
+				"power": true,
 				"powerLevel": 3,
 				"cooking": false,
 				"stirfry": false,
